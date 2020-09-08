@@ -1,0 +1,24 @@
+body{
+    background:yellow;
+}
+P.vermelho{
+    color:red;
+    text-align:center;
+    font-family: "courier New", 'courier', 'monospace';
+}
+p.azul{
+    color:blue;
+    text-align:right;
+    font-family:"verdana";
+}
+p.roxo{
+    color:purple;
+    text-align:left;
+    font-family:'Franklin Gothic Medium'
+}
+.verde{
+    color:green;
+}
+h1,h3,h6{
+    color:silver;
+}
